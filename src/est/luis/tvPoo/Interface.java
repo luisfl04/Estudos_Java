@@ -2,7 +2,7 @@ package est.luis.tvPoo;
 
 public class Interface {
 
-    // Criando classe main para interações:
+    // Criando método main para interações:
     public static void main(String[] args){
 
         // Criando instância da classe:
